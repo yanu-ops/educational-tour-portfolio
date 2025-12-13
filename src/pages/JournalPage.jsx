@@ -7,7 +7,7 @@ const journals = [
     id: "1",
     title: "UP IN IT UP",
     date: "2025-09-12",
-    facilitators: "Mr. Jason Nieve",
+    facilitators: "Mr. Jason Nieva",
     description:
       "Reflections during the educational tour about startups in UP IN IT UP.",
     photo: "/images/UP/upj.jpeg",
@@ -16,7 +16,7 @@ const journals = [
     id: "2",
     title: "Rivan IT Cebu",
     date: "2025-09-13",
-    facilitators: "Mr. Jason Nieva",
+    facilitators: "Mr. Kevin Lu",
     description:
       "Reflections and key insights from visiting Rivan IT Cebu, focusing on IT skills and industry exposure.",
     photo: "/images/rivan/rivanj.jpeg",
